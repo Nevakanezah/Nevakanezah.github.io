@@ -213,7 +213,7 @@ div#no-downloads span.inner {
   height: 197px;
   width: 850px;
   background: transparent url(../images/download-sprite.png) 0 0 no-repeat;
-  background-size: cover;
+  background-size: 100% auto;
 }
 
 section#downloads a {

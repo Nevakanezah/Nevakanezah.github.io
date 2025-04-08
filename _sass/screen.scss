@@ -205,6 +205,7 @@ div#no-downloads {
   margin: -80px auto -150px;
   z-index: 1;
   background: transparent url(../images/bg-ramp.jpg) center 171px no-repeat;
+  background-size: 100% 197px;
 }
 
 div#no-downloads span.inner {
@@ -213,7 +214,7 @@ div#no-downloads span.inner {
   height: 197px;
   width: 850px;
   background: transparent url(../images/download-sprite.png) 0 0 no-repeat;
-  background-size: 100% auto;
+  background-size: 100% 197px;
 }
 
 section#downloads a {

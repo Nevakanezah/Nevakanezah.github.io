@@ -8,12 +8,12 @@ This page is a showcase of some of that work.
 
 # Header 1
 
-<a href="./another-page.html"><img src="./assets/images/2dArt-bar.png" alt="2D Art" style="width:900px;height:auto;"></a>
-<a href="./another-page.html"><img src="./assets/images/3dArt-bar.png" alt="2D Art" style="width:900px;height:auto;"></a>
-<a href="./another-page.html"><img src="./assets/images/Code-bar.png" alt="2D Art" style="width:900px;height:auto;"></a>
-<a href="./another-page.html"><img src="./assets/images/TTS-bar.png" alt="2D Art" style="width:900px;height:auto;"></a>
-<a href="./another-page.html"><img src="./assets/images/Youtube-bar.png" alt="2D Art" style="width:900px;height:auto;"></a>
-<a href="./another-page.html"><img src="./assets/images/MCMap-bar.png" alt="2D Art" style="width:900px;height:auto;"></a>
+<a href="./2d-art.html"><img src="./assets/images/2dArt-bar.png" alt="2D Art" style="width:900px;height:auto;"></a>
+<a href="./3d-art.html"><img src="./assets/images/3dArt-bar.png" alt="2D Art" style="width:900px;height:auto;"></a>
+<a href="./code.html"><img src="./assets/images/Code-bar.png" alt="2D Art" style="width:900px;height:auto;"></a>
+<a href="./tts.html"><img src="./assets/images/TTS-bar.png" alt="2D Art" style="width:900px;height:auto;"></a>
+<a href="./youtube.html"><img src="./assets/images/Youtube-bar.png" alt="2D Art" style="width:900px;height:auto;"></a>
+<a href="./minecraft.html"><img src="./assets/images/MCMap-bar.png" alt="2D Art" style="width:900px;height:auto;"></a>
 
 ## Header 2
 

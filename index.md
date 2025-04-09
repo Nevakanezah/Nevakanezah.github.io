@@ -8,13 +8,12 @@ This page is a showcase of some of that work.
 
 # Header 1
 
-<a href="./another-page.html"><img src="./assets/images/2dArt-bar.png" alt="2D Art" style="width:736px;height:auto;"></a>
-![2D Art](./assets/images/2dArt-bar.png)
-![3D Art](./assets/images/3dArt-bar.png)
-![Code](./assets/images/Code-bar.png)
-![Tabletop Simulator](./assets/images/TTS-bar.png)
-![Youtube](./assets/images/Youtube-bar.png)
-![Minecraft](./assets/images/MCMap-bar.png)
+<a href="./another-page.html"><img src="./assets/images/2dArt-bar.png" alt="2D Art" style="width:900px;height:auto;"></a>
+<a href="./another-page.html"><img src="./assets/images/3dArt-bar.png" alt="2D Art" style="width:900px;height:auto;"></a>
+<a href="./another-page.html"><img src="./assets/images/Code-bar.png" alt="2D Art" style="width:900px;height:auto;"></a>
+<a href="./another-page.html"><img src="./assets/images/TTS-bar.png" alt="2D Art" style="width:900px;height:auto;"></a>
+<a href="./another-page.html"><img src="./assets/images/Youtube-bar.png" alt="2D Art" style="width:900px;height:auto;"></a>
+<a href="./another-page.html"><img src="./assets/images/MCMap-bar.png" alt="2D Art" style="width:900px;height:auto;"></a>
 
 ## Header 2
 

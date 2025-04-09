@@ -8,12 +8,12 @@ This page is a showcase of some of that work.
 
 # Header 1
 
-![2D Art](../images/2dArt-bar.png)
-![3D Art](../images/3dArt-bar.png)
-![Code](../images/Code-bar.png)
-![Tabletop Simulator](../images/TTS-bar.png)
-![Youtube](../images/Youtube-bar.png)
-![Minecraft](../images/MCMap-bar.png)
+![2D Art](./images/2dArt-bar.png)
+![3D Art](./images/3dArt-bar.png)
+![Code](./images/Code-bar.png)
+![Tabletop Simulator](./images/TTS-bar.png)
+![Youtube](./images/Youtube-bar.png)
+![Minecraft](./images/MCMap-bar.png)
 
 ## Header 2
 

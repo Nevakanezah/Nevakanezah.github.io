@@ -2,18 +2,13 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+I'm a QA Analyst with a penchant for creating content for the gaming communities in which I participate.
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+This page is a showcase of some of that work.
 
 # Header 1
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-<button type="button" class="collapsible">Open Collapsible</button> <div class="content"> <p>Lorem ipsum...</p> </div> 
 
 ## Header 2
 

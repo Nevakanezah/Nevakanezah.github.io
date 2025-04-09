@@ -8,7 +8,8 @@ This page is a showcase of some of that work.
 
 # Header 1
 
-<a href="default.html"><img src="./assets/images/2dArt-bar.png" alt="2D Art" style="width:100%;height:240px;"></a>
+<a href="./another-page.html"><img src="./assets/images/2dArt-bar.png" alt="2D Art" style="width:736px;height:auto;"></a>
+![2D Art](./assets/images/2dArt-bar.png)
 ![3D Art](./assets/images/3dArt-bar.png)
 ![Code](./assets/images/Code-bar.png)
 ![Tabletop Simulator](./assets/images/TTS-bar.png)

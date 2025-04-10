@@ -13,11 +13,10 @@ iron out stability and control issues.
 
 Up to that point however, I created most of the textures and environment models for the game:
 
-![3d cat](./assets/images/cat_small.gif)
-![3d tree](./assets/images/tree_small.gif)
-![3d house](./assets/images/house_small.gif)
-![3d bottle](./assets/images/bottle_small.gif)
-<a href="./assets/images/bottle_small.gif"><img src="./assets/images/bottle_small.gif" alt="2D Art" style="width:900px;height:auto;"></a>
+![3d cat](./cat_small.gif)
+![3d tree](./tree_small.gif)
+![3d house](./house_small.gif)
+![3d bottle](./bottle_small.gif)
 
 Over the span of about four days I modelled, textured, and implemented 17 objects, as well as creating and painting textures for the terrain mesh.
 During the push to solve our version control issues, I handled Unity implementation for the game's sound effects and models.

@@ -50,7 +50,7 @@ Fewer still exist that don't rely on reams of aggrandizing text, static composit
 
 I picked up Aseprite in order to participate in game jams. Now I look to it for any 2d game project.
 
-![Cafe Nigredo](./assets/images/cafenigredo.png) 
+<a href="./assets/images/cafenigredo.png"><img src="./assets/images/cafenigredo.png" alt="Cafe Nigredo" style="width:740px;height:auto;"></a>
 
 ["Cafe Nigredo"](https://hops1595.itch.io/cafe-nigredo) was my first game jam project, as well as my first experience with Aseprite. I created all of the art seen in the game.
 The cartoonish style was informed by the larger 100x200 sprite scale chosen by our team lead. Working at this scale freed us from the constraints of true "pixel" illustration

@@ -29,6 +29,8 @@ One of my game jam submissions, [Texylvania](https://nevakanezah.itch.io/texylva
 > so we're going where there's no silver or holy water: 1800s America! 
 > Thank goodness they have these enormous hats to handle all these high noons.
 
+![Texylvania](./assets/images/texylvania.png)
+
 The sun is the only lethal threat in the game however bullets damage your hat, increasing the damage taken while standing in sunlight.
 
 The movement & shooting code, as well as terrain object population was created by MrCowDisease. I designed the gameplay loop, as well as creating the rest of the game's code.

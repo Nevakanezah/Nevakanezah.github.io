@@ -21,6 +21,22 @@ Up to that point however, I created most of the textures and environment models 
 Over the span of about four days I modelled, textured, and implemented 17 objects, as well as creating and painting textures for the terrain mesh.
 During the push to solve our version control issues, I handled Unity implementation for the game's sound effects and models.
 
+## Moonrise Over the Sky Gate
+
+This project was a [VRChat level](https://en.vrcw.net/world/detail/wrld_b763d676-fbaa-416b-8777-82237a2352b2) I designed as a gift for a friend of mine.
+They had expressed interest in visiting [Tenku no Torii](https://japanjourneys.jp/yamanashi/kawaguchiko/attractions/tenku-no-torii/), but were put off by reports of the site being an unabashed tourist trap with abrasive owners.
+
+![Tenku no torii 1](./assets/images/torii1.jpg)
+![Tenku no torii 2](./assets/images/torii2.jpg)
+![Tenku no torii 3](./assets/images/torii3.jpg)
+
+I put the level together over the better part of two weeks, owing largely to unfamiliarity with VRChat's API. The level is a scenic overlook with gentle music,
+seating, a fire, intermittent meteorites, and a few popular VRChat elements like mirrors. 
+The glowing cityscape is achieved through a transparent texture with high emission, and the moon and Mt. Fuji models are from online sources. 
+
+I debuted the level to VRChat's wonderful level creation community, who gave me a warm reception and a gentle reminder never to use sprites for grass foliage in a VR game, as they're profoundly disorienting.
+I do not own VR hardware.
+
 ## Tabletop Simulator Optimizations
 
 TTS is an old game with pretty limited developer support, yet its market dominance makes it the de facto platform for board game developers to prototype new content.

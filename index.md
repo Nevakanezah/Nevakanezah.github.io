@@ -6,6 +6,8 @@ I'm a QA Analyst with a penchant for creating content for the gaming communities
 
 This page is a showcase of some of that work.
 
+You can contact me [here.](mailto:nevakanezah.yt@gmail.com)
+
 # Projects
 
 <a href="./2d-art.html"><img src="./assets/images/2dArt-bar.png" alt="2D Art" style="width:900px;height:auto;"></a>

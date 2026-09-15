@@ -2,9 +2,9 @@
 layout: default
 ---
 
-I'm a QA Analyst with a penchant for creating content for the gaming communities in which I participate.
+I'm a Tech artist who recently changed fields from software QA.
 
-This page is a showcase of some of that work.
+This page is a showcase of some of my projects.
 
 You can contact me [here.](mailto:nevakanezah.yt@gmail.com)
 
